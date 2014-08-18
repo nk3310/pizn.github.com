@@ -4,7 +4,7 @@ title:      GitHub pages 使用独立域名
 description: 我的 github 博客使用新域名了！
 keywords: pizn.me, GitHub, site
 ---
-###GitHub Pages 使用独立域名
+###GitHub Pages 使用独立域名（试试)
 
 恩，今天为自己的 GitHub 博客更换了新域名 www.pizn.me 更换的方法很简单：
 
